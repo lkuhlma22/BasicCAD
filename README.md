@@ -49,16 +49,11 @@ https://cvilleschools.onshape.com/documents/477a7168462b719dce2ecfe8/w/cfca8ec62
 
 
 
-
-
-
-
-
-
+<img src="Images/Mount.png" width="400">
 
 
 ### Reflection
-
+It was way easier than I thought it would be.  Following the video helped with getting through all the little setbacks I had.  I'm glad I am starting to figure this onshape stuff out.
 ---
 
 
