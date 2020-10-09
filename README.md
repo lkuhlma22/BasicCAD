@@ -64,7 +64,7 @@ I just made the fork.  It is a circle that is 8 mm thick with 2 rectangles comin
 ### Evidence
 https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ff7956273971672d7615be7
 ### Image
-
+<img src="Images/Fork.png" width="400">
 ### Reflection
 This part had a lot more steps and i had some trouble with the fillet tool.  I went to office hours to figure it out.  I think it is all starting to come together for me and I'm excited to see my final form of this project when I put it all together.
 ---
