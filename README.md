@@ -60,13 +60,13 @@ It was way easier than I thought it would be.  Following the video helped with g
 ## Fork
 
 ### Description
-
+I just made the fork.  It is a circle that is 8 mm thick with 2 rectangles coming out that are curved at the top.  It also has a hole going through each of them that is 15 mm from the top.  The diamiter is 10 mm
 ### Evidence
-
+https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ff7956273971672d7615be7
 ### Image
 
 ### Reflection
-
+This part had a lot more steps and i had some trouble with the fillet tool.  I went to office hours to figure it out.  I think it is all starting to come together for me and I'm excited to see my final form of this project when I put it all together.
 ---
 
 
