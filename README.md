@@ -99,11 +99,16 @@ The tire was one of the easiest parts to make so far.  All it really is is a tra
 
 ### Description
 
+To make the wheel I first made 3 rectangles on top of eachother.  After I made the 3 rectangles and connected them i used the revolve tool to revolve it and make it into a wheel shape.  Then I made a curved rectangle on the side of the wheel and removed the inside.  I used the pattern tool to multiply it 4 times to make the spokes on the wheel.
+
 ### Evidence
+
+[This is my wheel](https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ee741feb672cb13a22503e0)
 
 ### Image
 
 ### Reflection
+This was the most fun piece to make in my opinion because I didnt really know where it was going to go.  3 rectangles turned into something that looked like a wheel in 1 click.  The pattern tool is very useful because you only have to make the part 1 time and then you can multiply it wherever you want.
 
 ---
 
