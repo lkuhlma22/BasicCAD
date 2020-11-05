@@ -65,7 +65,7 @@ It was way easier than I thought it would be.  Following the video helped with g
 I just made the fork.  It is a circle that is 8 mm thick with 2 rectangles coming out that are curved at the top.  It also has a hole going through each of them that is 15 mm from the top.  The diamiter is 10 mm
 ### Evidence
 
-https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ff7956273971672d7615be7
+[This is my fork](https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ff7956273971672d7615be7)
 
 ### Image
 
