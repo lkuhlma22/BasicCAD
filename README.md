@@ -87,7 +87,7 @@ I just made the tire.  First i made a trapezoid that is 20 mm in length.  I made
 
 ### Image
 
-
+<img src="Images/Tire.png" width="400">
 
 ### Reflection
 
