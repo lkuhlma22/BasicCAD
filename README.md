@@ -44,15 +44,16 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ### Description
 The second part of the assignment was to build a mount.  It was a square with 120 mm length on each side. It is 8 mm thick and has 5 holes in it.  The 4 on the outside have a 10 mm diamiter and are 20 mm away from the edges of the mount.
 ### Evidence
-https://cvilleschools.onshape.com/documents/477a7168462b719dce2ecfe8/w/cfca8ec627fb21f3b1844e2c/e/07547ad1e064ea80151bd06b
+[ This is my mount](https://cvilleschools.onshape.com/documents/477a7168462b719dce2ecfe8/w/cfca8ec627fb21f3b1844e2c/e/07547ad1e064ea80151bd06b)
+
 ### Image
 
 
 
 <img src="Images/Mount.png" width="400">
 
-
 ### Reflection
+
 It was way easier than I thought it would be.  Following the video helped with getting through all the little setbacks I had.  I'm glad I am starting to figure this onshape stuff out.
 ---
 
@@ -60,12 +61,18 @@ It was way easier than I thought it would be.  Following the video helped with g
 ## Fork
 
 ### Description
+
 I just made the fork.  It is a circle that is 8 mm thick with 2 rectangles coming out that are curved at the top.  It also has a hole going through each of them that is 15 mm from the top.  The diamiter is 10 mm
 ### Evidence
+
 https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/0ff7956273971672d7615be7
+
 ### Image
+
 <img src="Images/Fork.png" width="400">
+
 ### Reflection
+
 This part had a lot more steps and I had some trouble with the fillet tool.  I went to office hours to figure it out.  I think it is all starting to come together for me and I'm excited to see my final form of this project when I put it all together.
 ---
 
@@ -75,10 +82,13 @@ This part had a lot more steps and I had some trouble with the fillet tool.  I w
 ### Description
 I just made the tire.  First i made a trapezoid that is 20 mm in length.  I made the angle of the sides of the trapezoid 10 degrees.  After that I revolved it to make it a circle, then i added some fillets to round it out and changed the color so it looked more like a tire.
 ### Evidence
-https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/1f2148a68b2a57ca52be8e40
+[This is my tire](https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/1f2148a68b2a57ca52be8e40)
+
+
 ### Image
 
 ### Reflection
+
 The tire was one of the easiest parts to make so far.  All it really is is a trapezoid that is revolved.  Im starting to get onshape.  It is starting to get easier which I am glad about because it was really frustrating at first.
 ---
 
