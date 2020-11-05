@@ -107,6 +107,10 @@ To make the wheel I first made 3 rectangles on top of eachother.  After I made t
 
 ### Image
 
+Wheel.png
+
+<img src="Images/Wheel.png" width="400">
+
 ### Reflection
 This was the most fun piece to make in my opinion because I didnt really know where it was going to go.  3 rectangles turned into something that looked like a wheel in 1 click.  The pattern tool is very useful because you only have to make the part 1 time and then you can multiply it wherever you want.
 
