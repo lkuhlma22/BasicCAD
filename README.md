@@ -109,7 +109,6 @@ To make the wheel I first made 3 rectangles on top of eachother.  After I made t
 
 ### Image
 
-Wheel.png
 
 <img src="Images/Wheel.png" width="400">
 
@@ -122,11 +121,13 @@ This was the most fun piece to make in my opinion because I didnt really know wh
 ## AxleCollarBearings
 
 ### Description
-
+The axle was a shaft thats hollowed out and it is 10 mm in diamiter 
 ### Evidence
-
+[This is my Axle](https://cvilleschools.onshape.com/documents/6a71bb78f771e29a70fe1c26/w/5558a881b3c7eae21c163042/e/4aa263b583bde1abceec0cb0)
 ### Image
+<img src="Images/AXle.png" width="400">
 
 ### Reflection
+This piece was pretty easy.  All it is is 2 circles with one extruded and one removed.  Then I used the rib tool and put a flat part on either side.
 
 ---
