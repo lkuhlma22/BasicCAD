@@ -55,6 +55,7 @@ The second part of the assignment was to build a mount.  It was a square with 12
 ### Reflection
 
 It was way easier than I thought it would be.  Following the video helped with getting through all the little setbacks I had.  I'm glad I am starting to figure this onshape stuff out.
+
 ---
 
 
@@ -74,6 +75,7 @@ I just made the fork.  It is a circle that is 8 mm thick with 2 rectangles comin
 ### Reflection
 
 This part had a lot more steps and I had some trouble with the fillet tool.  I went to office hours to figure it out.  I think it is all starting to come together for me and I'm excited to see my final form of this project when I put it all together.
+
 ---
 
 
