@@ -110,7 +110,7 @@ To make the wheel I first made 3 rectangles on top of eachother.  After I made t
 
 ### Image
 
-<img src="Images/Wheel.png" width="400">
+<img src="Images/Bearing.png" width="400">
 
 <img src="Images/Wheel.png" width="400">
 
